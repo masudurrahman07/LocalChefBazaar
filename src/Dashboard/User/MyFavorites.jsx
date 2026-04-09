@@ -18,7 +18,8 @@ const MyFavorites = () => {
     const fetchFavorites = async () => {
       try {
         const res = await axiosSecure.get('/favorites');
-        setFavorites(Array.isArray(res.data) ? res.data : []);} 
+        setFavorites(Array.isArray(res.data) ? res.data : []);
+      } 
         catch (err) {
         console.error('Failed to fetch favorites:', err);
         Swal.fire('Error', 'Failed to fetch favorite meals', 'error');} 

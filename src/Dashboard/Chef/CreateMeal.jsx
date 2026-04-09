@@ -28,6 +28,8 @@ const CreateMeal = () => {
       setPreview(URL.createObjectURL(foodImageFile[0]));
     }
   }, [foodImageFile]);
+
+  
 const uploadToBackend = async (file) => {
   try {
     const formData = new FormData();
