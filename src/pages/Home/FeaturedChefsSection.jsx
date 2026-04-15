@@ -12,7 +12,7 @@ const FeaturedChefsSection = () => {
       specialty: 'Italian Cuisine',
       rating: 4.9,
       experience: '8 years',
-      image: 'https://i.ibb.co/9yKKpQs/chef1.jpg',
+      image: 'https://i.ibb.co.com/Q77NgCCX/360-F-403117871-gwptrpb05px7-Yj-Di-PJbxaa0-JWAmut-Xw-P.jpg',
       dishes: 45
     },
     {
