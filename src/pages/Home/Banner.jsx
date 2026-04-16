@@ -67,7 +67,7 @@ const Banner = () => {
         <a
           href="/meals"
           className="px-5 py-2 rounded-lg font-semibold text-white bg-linear-to-r from-emerald-400 to-teal-500 shadow hover:from-teal-400 hover:to-emerald-500 transition-all duration-300 text-sm">
-          Explore Meals
+         Find Your Meal
         </a>
       </motion.div>
 
