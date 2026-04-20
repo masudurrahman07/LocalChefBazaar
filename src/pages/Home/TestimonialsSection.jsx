@@ -10,7 +10,7 @@ const TestimonialsSection = () => {
     {
       name: 'Emily Davis',
       role: 'Food Enthusiast',
-      image: 'https://i.ibb.co/9yKKpQs/user1.jpg',
+      image: 'https://i.ibb.co.com/b5x2GNnF/emily-davis.jpg',
       rating: 5,
       text: 'The quality of food from LocalChefBazaar is outstanding. Every meal feels like it was made with love and care.'
     },
