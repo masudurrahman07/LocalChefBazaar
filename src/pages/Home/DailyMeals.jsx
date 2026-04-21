@@ -48,7 +48,7 @@ const DailyMeals = () => {
       whileInView="visible"
       viewport={{ once: true, amount: 0.1 }}
       variants={fadeUp}
-      className="px-4 py-8"
+      className="max-w-7xl mx-auto px-4 py-8"
       style={{
         backgroundColor: theme === 'dark' ? '#111827' : 'transparent'
       }}>
