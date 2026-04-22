@@ -3,7 +3,7 @@
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](./Screenshots/Homepage.png)
 
 
 ## 🔗 Live Website
