@@ -1,5 +1,11 @@
 # LocalChefBazaar – Role-Based Food Marketplace
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](./screenshots/home.png)
+
+
 ## 🔗 Live Website
 https://local-chef-bazaar01.netlify.app/
 
