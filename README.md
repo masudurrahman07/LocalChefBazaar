@@ -64,6 +64,11 @@ LocalChefBazaar is a  food marketplace platform that connects local chefs with c
 - dotenv
 
 ## How to Run Locally
-1. Clone the repository
-2. Run `npm install`
-3. Run `npm start`
+1. Clone the repository  
+2. Run `npm install`  
+3. Create a `.env` file with required variables (MongoDB URI, JWT secret)  
+4. Start the server using `npm start`  
+5. Run the client using `npm run dev`  
+6. Open `http://localhost:5173` in your browser  
+
+> Ensure the backend is running before starting the frontend.
