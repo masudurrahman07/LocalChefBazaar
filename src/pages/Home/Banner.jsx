@@ -61,7 +61,7 @@ const Banner = () => {
         </h1>
 
         <p className="text-base md:text-lg lg:text-xl bg-linear-to-r from-white/90 to-gray-200 bg-clip-text text-transparent drop-shadow-md max-w-2xl mb-4">
-          Discover authentic home-cooked meals made by talented chefs in your neighborhood.
+          Taste authentic dishes made by passionate home chefs around you.
         </p>
 
         <a
