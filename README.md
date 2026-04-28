@@ -10,7 +10,9 @@
 https://local-chef-bazaar01.netlify.app/
 
 ## 📌 Project Overview
-LocalChefBazaar is a  food marketplace platform that connects local chefs with customers. The system is built with role-based user experiences where chefs can create and manage meals, users can browse and order food, and admins oversee and control platform operations. Secure authentication and CRUD functionality ensure reliable data handling and user management.
+LocalChefBazaar is a full-stack food marketplace platform designed to connect local chefs with customers in a seamless and user-friendly way. The platform is built with a role-based system that provides different experiences for chefs, users, and admins. Chefs can create, update, and manage their meal listings, while users can browse available meals, place orders, and manage their order history. Admins have full control over the platform to monitor activities and manage users, meals, and orders.
+
+The system includes secure authentication and authorization to ensure safe access for each role. It also implements full CRUD functionality for managing meals and orders efficiently. With a responsive and intuitive interface, LocalChefBazaar aims to create a smooth experience for both food providers and customers, making local food discovery and ordering more accessible and organized.
 
 ## 👥 User Roles & Features
 
